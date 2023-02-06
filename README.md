@@ -1,4 +1,4 @@
-## Laravel/Angular technical test
+## Laravel technical test
 Development of a web-based task management application for teams, you can use Trello as an inspiration.
 
 ### The application would allow to:
